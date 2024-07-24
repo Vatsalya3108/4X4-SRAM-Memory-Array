@@ -17,12 +17,8 @@ A 4x4 SRAM (Static Random-Access Memory) memory array consists of 16 memory cell
 ### Addressing:
 1. **Address Lines**: To access specific bits within the array, address lines are used. In a 4x4 array, 2 address lines are sufficient to select one of the 4 rows, and another 2 address lines to select one of the 4 columns.
 
-### Advantages:
-1. **Speed**: SRAM is faster than other types of memory like DRAM due to its simpler design and lack of refresh requirements.
-2. **Stability**: SRAM retains data as long as power is supplied, making it suitable for cache memory and other high-speed applications.
+###Tools Used :
+1.Cadence Virtuoso
+2.Mentor Graphics
 
-### Disadvantages:
-1. **Power Consumption**: SRAM consumes more power than DRAM because it uses more transistors per cell.
-2. **Area**: SRAM cells occupy more space on the silicon wafer compared to DRAM cells, which can limit the density of the memory array.
 
-Overall, a 4x4 SRAM memory array is a fundamental building block used in various digital circuits, providing fast and reliable storage for small amounts of data.
