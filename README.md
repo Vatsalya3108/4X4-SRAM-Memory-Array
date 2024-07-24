@@ -18,7 +18,7 @@ A 4x4 SRAM (Static Random-Access Memory) memory array consists of 16 memory cell
 1. **Address Lines**: To access specific bits within the array, address lines are used. In a 4x4 array, 2 address lines are sufficient to select one of the 4 rows, and another 2 address lines to select one of the 4 columns.
 
 ### Tools Used :
-1.Cadence Virtuoso
-2.Mentor Graphics
+1. **Cadence Virtuoso
+2. **Mentor Graphics
 
 
