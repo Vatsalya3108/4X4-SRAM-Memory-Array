@@ -1,0 +1,48 @@
+---
+
+6T SRAM Cell Design and Simulation
+
+This repository contains the design and simulation of a 6T SRAM cell, a fundamental memory cell used in SRAM arrays for data storage. The 6T SRAM cell is composed of six transistors: two cross-coupled inverters to hold data and two access transistors for read/write operations.
+
+Overview
+
+Hold Operation: The cell maintains its stored value without any read or write operation.
+
+Read Operation: Data is read without altering the stored value.
+
+Write Operation: Data in the cell is updated by forcing a new value through the access transistors.
+
+
+Simulations
+
+1. Hold Operation
+
+Description: This simulation verifies the stability of the stored value in the cell when no operation is performed.
+
+Simulation Results: (Attach an image here for the hold operation simulation)
+
+
+2. Read Operation
+
+Description: This simulation checks the ability of the cell to output the stored value without disruption.
+
+
+
+
+3. Write Operation
+
+Description: This simulation ensures that the cell can be correctly updated with new data.
+
+Simulation Results: (Attach an image here for the write operation simulation)
+
+
+DC Analysis
+
+Hold State DC Curve: Demonstrates the stability of the cell in its hold state.
+
+(Attach DC curve image here for the hold state)
+
+
+Read State DC Curve: Shows the stability of the cell during a read operation.
+
+(Attach DC curve image here for the read state)
